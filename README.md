@@ -3,7 +3,6 @@
 ![](Meriskill_HR_image.jpg) 
 
 ## Introduction
----
 This is HR Analysis of **Meriskill Company**.
 This report consists of four categories
 1. Demographic:
@@ -40,14 +39,11 @@ The model is a star schema and it contain only one dimensional table.
 
 
 ## Visualization
-The report comprises of four pages
+The report comprises of four pages and you can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMTIxNDliZWYtZWZhMS00MTJiLWJjZTItNGZkZGY4N2U2OGNkIiwidCI6ImNmYTI1N2FmLTk1N2EtNDU3Ny05MWIyLTU4ZjYwMDgzZmYyZSJ9)
 
-you can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMTIxNDliZWYtZWZhMS00MTJiLWJjZTItNGZkZGY4N2U2OGNkIiwidCI6ImNmYTI1N2FmLTk1N2EtNDU3Ny05MWIyLTU4ZjYwMDgzZmYyZSJ9)
-
-Images of the Analysis   
+![](Merikill_HR_1.png)
 1. Demographic
-![](Meriskill_HR_1.png)
-
+   
 3. Turnover Analysis 1
 ![](Meriskill_HR_2.png)
 
