@@ -1,10 +1,19 @@
 # HR-Analysis-Report
 
-![](Sales_Reports_4_Github.jpg) 
+![](Meriskill_HR_image.jpg) 
 
 ## Introduction
 ---
-This is a sales analysis of **Meriskill**, they want to identify which product and country generate the highest revenue. 
+This is HR Analysis of **Meriskill Company**.
+This report consists of four categories
+1. Demographic:
+   This report summarizes employee statistics, inculding age groups, gender, distance from home and marital statues, providing insights into workforce diversity and communting patterns for informed decision making.
+2. Turnover Analysis 1:
+   This report provides insihgts into employee attrition, including departures by department, job roles affected, business travel impact and total years in the current role, aiding in workforce management and retention strategies.
+3. Turnover Analysis 11:
+   This anlaysis consolidates employee data, featuring attrition by job level, overtime, performance ratings, and attrition across levels, offering insights for effective HR strategies and decision making.
+4. Employee Welfare:
+   This analysis consolidates employee data on attrition by relationship satisfaction, job satisfaction, work life balance, job involvement and job environment satisfaction.
 
 
 
@@ -22,20 +31,29 @@ The following power BI features was incorporated:
 - Page Navigation
 - Button
 - Filters
+- Shapes
+- Icons
 
 ## Modelling
 The model is a star schema and it contain only one dimensional table.
-![](Meriskill_Modelling_Image.png)
+![](Meriskill_HR_Schema.png)
 
 
 ## Visualization
-The report comprises of two pages
+The report comprises of four pages
 
-you can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYzNmMGZjYmEtODRhOS00NDU2LWIxYmQtYjg3MzY3NmE2YTZjIiwidCI6ImNmYTI1N2FmLTk1N2EtNDU3Ny05MWIyLTU4ZjYwMDgzZmYyZSJ9)
+you can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMTIxNDliZWYtZWZhMS00MTJiLWJjZTItNGZkZGY4N2U2OGNkIiwidCI6ImNmYTI1N2FmLTk1N2EtNDU3Ny05MWIyLTU4ZjYwMDgzZmYyZSJ9)
 
-Image of the Analysis                  
-![](MeriSkill_Sales_Report_Image_1.png)
+Images of the Analysis   
+1. Demographic
+![](Meriskill_HR_1.png)
 
-Continaution of the Analysis
-![](MeriSkill_Sales_Report_Image_2.png)
+3. Turnover Analysis 1
+![](Meriskill_HR_2.png)
+
+4. Turnover Analysis 11
+![](Meriskill_HR_3.png)
+
+5. Employee Welfare
+![](Meriskill_HR_4.png)
 
