@@ -68,7 +68,7 @@ The report comprises of four pages and you can interact with the report [here](h
 
 ### 4. Employee Welfare
 
-![](Meriskill_HR_4.png)
+![](MS_HR_4.png)
 
-![](thank-you-lmage.jpg)
+![](Thanks_image.jpg)
 
