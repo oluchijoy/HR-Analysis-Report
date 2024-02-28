@@ -70,3 +70,5 @@ The report comprises of four pages and you can interact with the report [here](h
 
 ![](Meriskill_HR_4.png)
 
+![](thank-you-lmage.jpg)
+
