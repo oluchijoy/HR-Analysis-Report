@@ -2,6 +2,8 @@
 
 ![](Meriskill_HR_image.jpg) 
 
+
+
 ## Introduction
 This is HR Analysis of **Meriskill Company**.
 This report consists of four categories
@@ -16,11 +18,17 @@ This report consists of four categories
 
 
 
+
 ## Problem Statement
-1. Which product generate the highest revenue?
-2. which country generate the hightest revenue?
-3. what is the best performing day?
-4. What product have the highest order?
+1. To determine attrition employees by demographics
+2. To identify attrition by employee's welfare
+3. To examine attrition by employee's turnover
+4. To determine attrition employees by work life balence
+5. To determine attrition emlpoyees by environment satisfaction
+6. To identify attrition employees by job satisfaction
+
+   
+
 
 ## Skills/ Concepts Demostrated
 The following power BI features was incorporated:
@@ -33,23 +41,32 @@ The following power BI features was incorporated:
 - Shapes
 - Icons
 
+
+
 ## Modelling
 The model is a star schema and it contain only one dimensional table.
 ![](Meriskill_HR_Schema.png)
 
 
+
 ## Visualization
 The report comprises of four pages and you can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMTIxNDliZWYtZWZhMS00MTJiLWJjZTItNGZkZGY4N2U2OGNkIiwidCI6ImNmYTI1N2FmLTk1N2EtNDU3Ny05MWIyLTU4ZjYwMDgzZmYyZSJ9)
 
+## Analysis of the Report
+
+### 1. Demographic
+
 ![](Merikill_HR_1.png)
-1. Demographic
-   
-3. Turnover Analysis 1
+
+### 2. Turnover Analysis 1
+
 ![](Meriskill_HR_2.png)
 
-4. Turnover Analysis 11
+### 3. Turnover Analysis 11
+
 ![](Meriskill_HR_3.png)
 
-5. Employee Welfare
+### 4. Employee Welfare
+
 ![](Meriskill_HR_4.png)
 
