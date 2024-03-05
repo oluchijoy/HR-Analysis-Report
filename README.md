@@ -1,11 +1,11 @@
-# HR-Analysis-Report
+# HR-Analysis-Report in Power BI
 
 ![](Meriskill_HR_image.jpg) 
 
 
 
 ## Introduction
-This is HR Analysis of **Meriskill Company**.
+This is HR Analysis report analyzed using Power Bi which enabled stakeholders make informed decisions.
 This report consists of four categories
 1. Demographic:
    This report summarizes employee statistics, inculding age groups, gender, distance from home and marital statues, providing insights into workforce diversity and communting patterns for informed decision making.
